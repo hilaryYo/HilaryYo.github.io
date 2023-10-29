@@ -1,29 +1,26 @@
 ## Technical Writer
-<h2>
-<b>Education</b>
-</h2>
- <br>
- <b>Education one</b>
- <br>
+<h2>Education:</h2>
+
+- <b>Education one here</b>
  - First item
 - Second item
 - Third item
-- <b>Education two</b>
-<br>
+- <b>Education two here</b>
 - First item
 - Second item
 - Third item
-</h2>
-<br> 
-- First item - paragraph text (insert block text)
-- Second item
-- Third item
-<h2><b>Work Experience</b></h2>
-- First item
-- Second item
-- Third item
-<br> 
 
+<h2>Work Experience:</h2>
+
+- <b>Experience one here</b>
+ - First item
+- Second item
+- Third item
+- <b>Experience two here</b>
+- First item
+- Second item
+- Third item
+  
 <h2>Projects:</h2>
 
 - <b>Project one here</b>
