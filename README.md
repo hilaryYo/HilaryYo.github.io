@@ -1,11 +1,11 @@
 ## Technical Writer
 <h3>
-Education
+<b>Education</b>
 <br> 
 - First item - paragraph text (block text)
 - Second item
 - Third item
-<br>Work Experience</h3>be>
+<br>Work Experience</h3></br></h3>
 - First item
 - Second item
 - Third item
