@@ -3,11 +3,13 @@
 <b>Education</b>
 </h2>
  <br>
- - <b>Education one</b>
+ <b>Education one</b>
+ <br>
  - First item
 - Second item
 - Third item
 - <b>Education two</b>
+<br>
 - First item
 - Second item
 - Third item
