@@ -1,6 +1,14 @@
 ## Technical Writer
 <h2>
 <b>Education</b>
+ - <b>Education one</b>
+ - First item
+- Second item
+- Third item
+- <b>Education two</b>
+- First item
+- Second item
+- Third item
 </h2>
 <br> 
 - First item - paragraph text (insert block text)
