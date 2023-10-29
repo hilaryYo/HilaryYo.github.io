@@ -1,6 +1,7 @@
 ## Technical Writer
 <h2>
 <b>Education</b>
+ <br>
  - <b>Education one</b>
  - First item
 - Second item
@@ -19,9 +20,6 @@
 - Second item
 - Third item
 <br> 
-<h2>
-
-
 
 <h2>Projects:</h2>
 
