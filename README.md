@@ -5,13 +5,11 @@
 - First item - paragraph text (block text)
 - Second item
 - Third item
-<br>Work Experience</h3></br></h3>
+<b>Work Experience</b></h3>
 - First item
 - Second item
 - Third item
-<h3>
 <br> 
-</h3>
 <h2>
 
 
