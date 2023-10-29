@@ -1,7 +1,7 @@
 ## Technical Writer
-#
-##Education
-#
-##Experience
-#
+
+##Education<br>
+
+##Experience<br>
+
 ##Projects
