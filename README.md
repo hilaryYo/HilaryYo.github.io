@@ -5,12 +5,12 @@ Education
 - First item - paragraph text (block text)
 - Second item
 - Third item
-Work Experience
+<br>Work Experience</h3>be>
 - First item
 - Second item
 - Third item
 <h3>
-&#127908;<a href="https://github.com/JasonDelahoussaye/RecordedInterviewQuestionAnswers" style="color: green;">Listen to 50 recorded interview question answers</a>&#127908;<br> 
+<br> 
 </h3>
 <h2>
 
