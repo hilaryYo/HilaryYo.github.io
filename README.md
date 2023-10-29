@@ -1,6 +1,7 @@
 ## Technical Writer
 <h2>
 <b>Education</b>
+</h2>
  <br>
  - <b>Education one</b>
  - First item
